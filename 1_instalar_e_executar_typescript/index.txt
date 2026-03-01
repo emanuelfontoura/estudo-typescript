@@ -1,0 +1,14 @@
+// Para instalar o typescript no terminal de forma global:
+
+npm install typescript -g
+
+--> isso instala o typescript de forma global no seu pc, fazendo com que vc possa criar vários projetos sem precisar 
+    ficar instalando o TS para cada projeto
+
+// Para instalar o ts localmente no projeto:
+
+npm install typescript 
+
+--> instala o ts apenas no projeto que vc está
+
+obs: caso queira instalar como dev dependencie: npm install typescript -D

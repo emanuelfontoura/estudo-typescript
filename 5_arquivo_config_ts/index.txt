@@ -1,0 +1,3 @@
+// Gerar o arquivo de configuração do TS:
+
+tsc --init

@@ -1,0 +1,11 @@
+// Type annotation
+
+const x: Number
+
+--> é quando definimos o tipo da variável explicitamente ao ts
+
+// Type inference
+
+const x = 10
+
+--> é quando não definimos o tipo da variável explicitamente, mas o ts faz isso por nós automaticamente durante sua compilação/execução
