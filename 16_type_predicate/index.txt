@@ -1,0 +1,4 @@
+Type predicate consiste em gerar um type guard em um retorno de uma função.
+Suponha que existe uma função que verificar se uma array é uma array de strings e o retorno dela, caso seja, é true.
+Com o type predicate vc consegue dizer ao compilador o seguinte: "se essa função retornar true, então o typo aqui dentro é uma array
+de string". Isso é necessário pois retornar só true ou false não indica ao compilador o tipo do elemento.

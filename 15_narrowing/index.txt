@@ -1,0 +1,2 @@
+Narrowing é uma espécie de validação do tipo de dado, pois em algumas situações os tipos podem ser imprevisíveis e queremos
+executar algo para cada uma das possibiliades. Isso é fundamental para evitar erros do compilador.
