@@ -1,0 +1,2 @@
+O unknown é semelhante ao any (que significa que não tem tipo definido), porém o unknown se diferencia não deixando algo ser executado sem validar o tipo.
+Ou seja, ele adiciona uma trava de segurança.

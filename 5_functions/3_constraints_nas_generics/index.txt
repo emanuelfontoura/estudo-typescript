@@ -1,0 +1,3 @@
+As generics functions acabam por permitir uma boa parcela de tipos. Uma forma de limitar esse escopo de possibilidades é usando 
+constraints nesses generics.
+A constraint é feita usando o "extends".

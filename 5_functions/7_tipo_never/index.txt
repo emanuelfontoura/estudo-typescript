@@ -1,0 +1,4 @@
+O tipo never é um tipo que nunca acontece. Muito usado em funções que nunca retornam ou que interrompem a execução.
+
+Never = nunca retorna pq a função nunca termina ou interrompe a execução do programa com algum erro lançado
+Void = não retorna nada, mas a função termina
