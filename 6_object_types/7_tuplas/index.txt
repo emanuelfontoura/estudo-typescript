@@ -1,0 +1,1 @@
+Tupla é um tipo de array na qual definimos a quantidade e o tipo de elementos.

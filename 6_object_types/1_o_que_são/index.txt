@@ -1,0 +1,1 @@
+São os tipos que definem objetos. Ou seja, é um tipo que define quais propriedades e/ou métodos um objeto deverá conter.

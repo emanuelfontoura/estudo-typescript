@@ -1,0 +1,3 @@
+São propriedades que só podem ter seu valor alterado na criação destas. Depois disso, seu valor só pode ser acessado e não mais alterado.
+É uma forma de criar uma const dentro de um objeto.
+Podemos usar isso tanto em objects types quanto em interfaces.

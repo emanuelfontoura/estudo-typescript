@@ -1,0 +1,1 @@
+Vc pode definir que um tipo ou interface vai poder receber chaves que vc ainda n sabe o nome, mas quer obrigar que elas sejam de um tipo específico.
