@@ -1,5 +1,5 @@
-function executarConsoleLog(f: (tipo: string) => void):void{
-    f('arroz')
+function executarConsoleLog<T>(f: (tipo: T) => void, data: T):void{
+    f(data)
 }
 
-executarConsoleLog((t: string) => console.log(t))
+executarConsoleLog<string>((t) => console.log(t), 'OLÁ')
