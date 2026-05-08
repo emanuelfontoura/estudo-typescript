@@ -1,0 +1,9 @@
+Decorators podem adicionar funcionalidades extras a classes e funções.
+
+Basicamente, criamos novas funções que podem ser adicionadas a partir de um @nome_da_funcao_criada.
+
+Esta função é chamada assim que o item que foi definido o decorator é executado.
+
+O item que foi definido o decorator é determinado colocando a chamada do decorator logo acima dele.
+
+Para habilitar os decorators precisamos adicionar uma config no tsconfig.json.
